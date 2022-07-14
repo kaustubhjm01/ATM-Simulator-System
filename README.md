@@ -39,4 +39,31 @@ databases reliably and quickly in high-demanding production environments.
 
 ![login](https://user-images.githubusercontent.com/84977189/179014170-02769852-6a2a-4001-b620-be2bb00a6e37.png)
 
-<h2 align="center">Login Interface</h2>
+<h2 align="center">Login Interface</h2><br/><br/>
+
+![signup](https://user-images.githubusercontent.com/84977189/179015878-2e8c67df-d74f-437e-9752-5dc4d31dc983.png)
+
+<h2 align="center">Signup (Personal Details)</h2><br/><br/>
+
+![signup2](https://user-images.githubusercontent.com/84977189/179016209-5e57d2eb-521a-4f79-af24-eb2a78b87757.png)
+
+<h2 align="center">Signup (Additional Details)</h2><br/><br/>
+
+![signup3](https://user-images.githubusercontent.com/84977189/179016365-aeb9cade-b74c-45a4-88b4-ae0c2f0169cc.png)
+<h2 align="center">Signup (Account Details)</h2><br/><br/>
+
+![account](https://user-images.githubusercontent.com/84977189/179016596-084bb600-c12b-413f-b437-63cfdbae995a.png)
+<h2 align="center">Account Created</h2><br/><br/>
+
+![deposition_of_money](https://user-images.githubusercontent.com/84977189/179016734-917d363e-5317-443a-a6bf-cc0f60d0a828.png)
+<h2 align="center">Deposition of Money</h2><br/><br/>
+
+![balance_with_drawl](https://user-images.githubusercontent.com/84977189/179016896-05072f21-219f-46c6-af49-fc4c925fcaba.png)
+<h2 align="center">Balance With drawl</h2><br/><br/>
+
+![current_val](https://user-images.githubusercontent.com/84977189/179017031-4a4c7318-08b2-4ffc-91a2-1ae729911b16.png)
+<h2 align="center">Current Balance</h2><br/><br/>
+
+![change_pin](https://user-images.githubusercontent.com/84977189/179017165-50234816-0b24-4f2c-85c5-fb619acf55f2.png)
+<h2 align="center">Changing of Pin Code</h2><br/><br/>
+
