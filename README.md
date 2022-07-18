@@ -1,4 +1,4 @@
-# Bank_Managemen_System #
+# ATM Simulator System #
 
  ## Problem Statement: ##
  The main aim of designing and developing this banking System Java Programme primarily
